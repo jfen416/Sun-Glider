@@ -1,0 +1,21 @@
+# Roblox Studio place/model files (Rojo builds these from src/)
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.rbxl.lock
+*.rbxlx.lock
+
+# Rojo / tooling
+sourcemap.json
+/build/
+/Packages/
+/ServerPackages/
+/DevPackages/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

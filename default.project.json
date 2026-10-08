@@ -1,0 +1,19 @@
+{
+  "name": "RaceTheSun",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "RaceTheSun": {
+        "$path": "src/ReplicatedStorage/RaceTheSun"
+      }
+    },
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/StarterPlayer/StarterPlayerScripts"
+      }
+    }
+  }
+}
